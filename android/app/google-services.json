@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499749405070",
+    "firebase_url": "https://shoppa-app-86f89.firebaseio.com",
+    "project_id": "shoppa-app-86f89",
+    "storage_bucket": "shoppa-app-86f89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499749405070:android:975aed07ca8a88c15964df",
+        "android_client_info": {
+          "package_name": "com.androidtest.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499749405070-bhg6l6aqfsb8rd06403e57ke4usrlac3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiHWjWz01cNAsxgGtEceA-Ukg5B84C2D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499749405070-bhg6l6aqfsb8rd06403e57ke4usrlac3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
